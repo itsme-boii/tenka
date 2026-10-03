@@ -1,0 +1,12 @@
+# Compiler files
+cache/
+out/
+
+# Broadcast logs (never committed)
+broadcast/
+
+# Dotenv file
+.env
+
+# Local/simulated deployments are never committed
+deployments/31337.json
